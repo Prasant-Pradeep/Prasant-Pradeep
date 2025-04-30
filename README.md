@@ -67,16 +67,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🔗 [Safe Vision AI](https://github.com/Prasant-Pradeep) | Weapon detection using YOLOv5 & Flask | Python, OpenCV, YOLO, Flask |
-| 🔗 [Harpa Global AI-Matchmaking](https://github.com/Prasant-Pradeep) | AI + MERN B2B connection platform | React, Node.js, MongoDB, AI |
-| 🔗 [Sign Language Detection](https://github.com/Prasant-Pradeep) | ML-based gesture interpretation | OpenCV, TensorFlow |
-
----
-
 ### 🐍 Contribution Graph
 
 <p align="center">
