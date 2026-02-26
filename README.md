@@ -5,7 +5,7 @@
 
 <!-- AESTHETIC CODING GIF -->
 <p align="center">
-  <img src="[https://camo.githubusercontent.com/74313be7cf82d8353f79c37c75f39a4999a96d9451379663b5e60ce65200639d/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966](https://giphy.com/explore/computer-programming)" width="400" alt="Anime Coding GIF" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Anime Coding GIF" />
 </p>
 
 ---
